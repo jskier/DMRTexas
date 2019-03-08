@@ -1,0 +1,42 @@
+Contact Name,Call Type,Call ID,Call Receive Tone
+Silent,1,0,0
+Worldwide,1,1,0
+Metro 1,1,2,0
+North America,1,3,0
+Local,1,9,1
+Metro 2,1,10,0
+WW English,1,13,0
+BM Worldwide,1,91,0
+BM North America,1,93,0
+DMR Simplex,1,99,0
+TAC310,1,310,0
+TAC311,1,311,0
+TAC312,1,312,0
+USA 1776,1,1776,0
+DCI Bridge-BMUSA,1,3100,0
+AR Statewide,1,3105,0
+TX Statewide,1,3148,1
+DCI 1,1,3160,0
+DCI USA,1,3163,0
+Chicago 2,1,3166,0
+MW Region,1,3169,0
+NE Region,1,3172,0
+Mid Atlantic,1,3173,0
+SE Region,1,3174,0
+S.Plains Region,1,3175,0
+SW Region,1,3176,0
+Mountain Region,1,3177,0
+Chicago 1,1,3181,0
+Cactus,1,3185,0
+Stroke DMR 1,1,7777,0
+Houston,1,8207,0
+SETXEmComm,1,8686,0
+Crossroads,1,8710,0
+BM 3148,1,9000,0
+Parrot,1,9998,0
+Audio Test,1,9999,0
+BM Region 5,1,31095,0
+OK Statewide 2,1,31402,0
+Texas Nexus YSF,1,31488,0
+AR NSX Local,1,310501,0
+HR 2.0,1,314837,1
