@@ -25,7 +25,7 @@ Mid Atlantic,1,3173,0
 SE Region,1,3174,0
 S.Plains Region,1,3175,0
 SW Region,1,3176,0
-Mountain Region,1,3177,0
+Mountain,1,3177,0
 Chicago 1,1,3181,0
 Cactus,1,3185,0
 Stroke DMR 1,1,7777,0
@@ -33,8 +33,8 @@ Houston,1,8207,0
 SETXEmComm,1,8686,0
 Crossroads,1,8710,0
 BM 3148,1,9000,0
-Parrot,0,9998,0
-Audio Test,0,9999,0
+Parrot,2,9998,0
+Audio Test,2,9999,0
 BM Region 5,1,31095,0
 OK Statewide 2,1,31402,0
 Texas Nexus YSF,1,31488,0
