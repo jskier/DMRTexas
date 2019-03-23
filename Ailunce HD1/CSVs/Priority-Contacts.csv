@@ -1,9 +1,9 @@
 No.,Call Type,Contacts Alias,City,Province,Country,Call ID
 1,Group Call,Worldwide,,,,1
-2,Group Call,Metro,,,,2
+2,Group Call,Metro TG2,,,,2
 3,Group Call,North America,,,,3
 4,Group Call,Local,,,,9
-5,Group Call,Metro 2,,,,10
+5,Group Call,Metro TG10,,,,10
 6,Group Call,WW English,,,,13
 94,Group Call,BM Worldwide,,,,91
 95,Group Call,BM North America,,,,93
@@ -78,12 +78,12 @@ No.,Call Type,Contacts Alias,City,Province,Country,Call ID
 98,Group Call,DCI USA,,,,3163
 73,Group Call,Chicago 2,,,,3166
 74,Group Call,Allstar Link,,,,3167
-75,Group Call,MW Region,,,,3169
-76,Group Call,NE Region,,,,3172
+75,Group Call,Midwest,,,,3169
+76,Group Call,Northeast,,,,3172
 96,Group Call,Mid Atlantic,,,,3173
-77,Group Call,SE Region,,,,3174
-78,Group Call,S.Plains,,,,3175
-79,Group Call,SW Region,,,,3176
+77,Group Call,Southeast,,,,3174
+78,Group Call,Southern Plains,,,,3175
+79,Group Call,Southwest,,,,3176
 80,Group Call,Mountain,,,,3177
 81,Group Call,Chicago 1,,,,3181
 82,Group Call,Cactus,,,,3185
@@ -95,7 +95,7 @@ No.,Call Type,Contacts Alias,City,Province,Country,Call ID
 85,Group Call,BM 3148,,,,9000
 86,Private Call,Parrot,,,,9998
 87,Private Call,Audio Test,,,,9999
-88,Group Call,BM STX,,,,31482
+88,Group Call,South Texas,,,,31482
 89,Group Call,Texas Nexus,,,,31488
 90,Group Call,Echo/IRLP,,,,63951
 96,Group Call,AR NSX Local,,,,310501
