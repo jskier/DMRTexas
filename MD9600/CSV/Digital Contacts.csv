@@ -14,8 +14,8 @@ TAC311,1,311,0
 TAC312,1,312,0
 USA 1776,1,1776,0
 DCI Bridge,1,3100,0
-AR Statewide,1,3105,0
-TX Statewide,1,3148,0
+Arkansas,1,3105,0
+Texas,1,3148,0
 DCI 1,1,3160,0
 DCI USA,1,3163,0
 Chicago 2,1,3166,0
@@ -23,7 +23,7 @@ MW Region,1,3169,0
 NE Region,1,3172,0
 Mid Atlantic,1,3173,0
 SE Region,1,3174,0
-S.Plains Region,1,3175,0
+S.Plains,1,3175,0
 SW Region,1,3176,0
 Mountain,1,3177,0
 Chicago 1,1,3181,0
@@ -33,11 +33,11 @@ Houston,1,8207,0
 SETXEmComm,1,8686,0
 Crossroads,1,8710,0
 BM 3148,1,9000,0
-Parrot,2,9998,0
-Audio Test,2,9999,0
+Parrot,1,9998,0
+Audio Test,1,9999,0
 BM Region 5,1,31095,0
-OK Statewide 2,1,31402,0
-Texas Nexus YSF,1,31488,0
+Oklahoma 2,1,31402,0
+Texas Nexus,1,31488,0
 AR NSX Local,1,310501,0
 HR 2.0,1,314837,0
 TAC313,1,313,0
@@ -51,8 +51,6 @@ BronxTRBO,1,444,0
 Alabama,1,3101,0
 Alaska,1,3102,0
 Arizona,1,3104,0
-AR Statewide,1,3105,0
-Arkansas,1,3105,0
 California,1,3106,0
 Colorado,1,3108,0
 Connecticut,1,3109,0
@@ -92,7 +90,6 @@ Rhode Island,1,3144,0
 South Carolina,1,3145,0
 South Dakota,1,3146,0
 Tennessee,1,3147,0
-Texas,1,3148,0
 Utah,1,3149,0
 Vermont,1,3150,0
 Virginia,1,3151,0
@@ -104,4 +101,7 @@ UAe 1,1,113,0
 UAe 2,1,123,0
 TRBO6 Comm1,1,3777215,0
 TRBO6 Comm2,1,3777216,0
-Houston,1,8207,0
+TAC1,1,8951,0
+AllStar,1,3167,0
+Echo/IRLP,1,63951,0
+BM STX,1,31482,0
